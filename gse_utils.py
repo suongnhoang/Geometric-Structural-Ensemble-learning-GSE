@@ -7,9 +7,12 @@ def euclid_dist(x, y):
     assert x.shape == y.shape and len(x.shape)==1
     return np.sqrt(((x-y)**2).sum())
 
-def get_classification_sign(w_phi, X, soft_class=False, poolean_out=True):
+def vector_module(x):
+    return np.sqrt((x**2).sum())
+
+def get_classification_sign(w_phi, X, soft_class=False, boolean_out=True):
     w, phi = w_phi
-    if poolean_out:
+    if boolean_out:
         return np.sign(X.dot(w.T)+phi)>=0 if soft_class else np.sign(X.dot(w.T)+phi)>0
     return np.sign(X.dot(w.T)+phi)
 
