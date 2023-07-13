@@ -1,12 +1,15 @@
 # GSE - Geometric Structural Ensemble Learning
 
-This repo implements python numpy version for GSE, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000450)
+This repo implements python numpy version for GSE, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000450):
+
 Zhe Wang, Qida Dong, Wei Guo, Dongdong Li, Jing Zhang, Wenli Du,
 
 Geometric imbalanced deep learning with feature scaling and boundary sample mining,
 
 Pattern Recognition,
+
 Volume 126,
+
 2022,
 
 ## Results:
