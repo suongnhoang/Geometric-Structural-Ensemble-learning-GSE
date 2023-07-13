@@ -1,4 +1,4 @@
-# GSE - Geometric Structural Ensemble Learning
+# A geometric structural ensemble (GSE) learning
 
 This repo implements python numpy version for GSE, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000450):     
 ```
