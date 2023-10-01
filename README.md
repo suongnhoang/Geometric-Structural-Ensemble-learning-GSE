@@ -16,3 +16,13 @@ Volume 126,
 ## Example:
 Detail of running on dummy data and ecoli3 dataset is show in `experiments.ipynb`.
 ![plot GSE in dummy imbalance data](https://raw.githubusercontent.com/suongnhoang/GSE/main/data/plot.png)
+
+## Contributions
+
+Feel free to contribute!
+
+You can raise an issue or submit a pull request, whichever is more convenient for you.
+
+## Licence
+
+Apagce-2.0
