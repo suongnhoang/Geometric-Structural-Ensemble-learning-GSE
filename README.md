@@ -1,4 +1,6 @@
 # A geometric structural ensemble (GSE) learning
+![LICENSE](https://img.shields.io/github/license/suongnhoang/Geometric-Structural-Ensemble-learning-GSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 This repo implements python numpy version for GSE, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000450):     
 ```
