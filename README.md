@@ -25,4 +25,4 @@ You can raise an issue or submit a pull request, whichever is more convenient fo
 
 ## Licence
 
-Apagce-2.0
+Apache-2.0
